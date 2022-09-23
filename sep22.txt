@@ -1,0 +1,52 @@
+
+Order Date :
+Start Ship :
+Exp.  Delivery :
+Cancel Date :
+Ship Via :
+FOB :
+Term :06/29/2022 P.O. #:0514-003311
+09/06/2022
+09/21/2022
+BEST
+Not Specified
+90Revision :1.1
+Buyer :
+Page 1 of 2ASAP
+
+VENDOR :I009351
+TCG CONTINUUM LLC
+3423 SOUTHPARK PLACE SUITE B
+GROVE CITY, OH  43123     US
+CONTACT :CLAYTON NICHOLS
+614.876.8600T :
+F :BILL TO :
+ACCOUNTS PAYABLE ATTN :
+T :
+ F :SHIP TO :Baystate Health
+759 Chestnut Street
+Marketplace Gift Shop
+Springfield, MA  01199     US
+T :
+F :Lori's Gifts
+2125 Chenault Drive Suite #100
+Carrollton, TX 75006    US
+972.759.5000
+NOTE: PURCHASE ORDER NUMBER MUST APPEAR ON ALL VENDOR DOCUMENTS AND COMMUNICATIONS
+Line #Vendor ItemUnitQty.UPCDescription Unit PriceExt. Cost
+1 8 BCA-Ribbon Trucker Cap W/Embroidery $7.50$60.001BCA-TRUCKER CAP702443672157
+1 4 BCA-Always Unisex SS Crewneck Tee Black - L $7.50$30.002HZ11 - ALWAYS L702443672096
+1 2 BCA-Always Unisex SS Crewneck Tee Black - M $7.50$15.003HZ11 - ALWAYS M702443672089
+1 2 BCA-Always Unisex SS Crewneck Tee Black - S $7.50$15.004HZ11 - ALWAYS S702443672072
+1 4 BCA-Always Unisex SS Crewneck Tee Black - XL $7.50$30.005HZ11 - ALWAYS XL702443672102
+1 4 BCA-Butterfly Crew Fleece - Guava L $13.50$54.006HZ20 - BUTTERFLY L702443672133
+1 2 BCA-Butterfly Crew Fleece - Guava M $13.50$27.007HZ20 - BUTTERFLY M702443672126
+1 2 BCA-Butterfly Crew Fleece - Guava S $13.50$27.008HZ20 - BUTTERFLY S702443672119
+1 4 BCA-Butterfly Crew Fleece - Guava XL $13.50$54.009HZ20 - BUTTERFLY XL702443672140
+ 32  $312.00TOTAL UNITS: TOTAL COST:
+PURCHASE ORDER TOTAL:$312.00
+(*) All 'Order Qty' values are 'single units' costed at the single unit value, not vendor packs, boxes, cartons, or cases. Please make sure to ship the correct number of 
+single units.
+Shipping label must read: Gift Shop #____
+WE DO NOT ACCEPT BACKORDERS. PLEASE FILL ALL AVAILABLE AND CANCEL ANY BACKORDER.
+Printed On 06/29/2022 At  5:34:57PM
